@@ -23,7 +23,7 @@ Generates clean, aesthetic usernames with only letters — no numbers, no symbol
 Install with:
 
 ```bash
-git clone https://github.com/your-username/gencraft.git
+git clone https://github.com/zicrin/gencraft.git
 cd GenCraft
 ```
 
