@@ -1,6 +1,6 @@
-# GenCraft
+# Ignify
 
-**🧠 GenCraft** is a flawless Minecraft-style username generator written in Python.  
+** Ignify** is a flawless Minecraft-style username generator written in Python.  
 Generates clean, aesthetic usernames with only letters — no numbers, no symbols — and checks their availability in real time.
 
 ---
@@ -12,7 +12,8 @@ Generates clean, aesthetic usernames with only letters — no numbers, no symbol
 - Checks if usernames are **available**
 - Adjustable delay to avoid rate-limiting
 - Optional flag to show **taken** usernames
-
+- Generate username and validates them so fast you cant even see it happening.
+- 
 ---
 
 ## 📦 Requirements
@@ -26,10 +27,11 @@ Install with:
 git clone https://github.com/zicrin/gencraft.git
 cd GenCraft
 ```
-
+Easy and simple
+Clone the repository 
  
 ```bash
-usage: GenCraft.py [-h] [-n COUNT] [--min MIN] [--max MAX] [--delay DELAY] [--show-taken]
+usage: ignify.py [-h] [-n COUNT] [--min MIN] [--max MAX] [--delay DELAY] [--show-taken]
 
 🧠 Flawless Minecraft Username Generator (NO NUMBERS)
 
