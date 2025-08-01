@@ -26,7 +26,7 @@ How to install ?
 Install with:
 
 ```bash
-git clone https://github.com/zicrin/gencraft.git
+git clone https://github.com/zicrin/Ignify.git
 ```
 
 Clone the repository.
