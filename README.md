@@ -21,14 +21,20 @@ Generates clean, aesthetic usernames with only letters — no numbers, no symbol
 - Python 3.8+
 - `requests` library
 
+
+How to install ?
 Install with:
 
 ```bash
 git clone https://github.com/zicrin/gencraft.git
-cd GenCraft
 ```
-Easy and simple
-Clone the repository 
+
+Clone the repository.
+
+```bash
+cd Ignify
+```
+Move into Ignify folder.
  
 ```bash
 usage: ignify.py [-h] [-n COUNT] [--min MIN] [--max MAX] [--delay DELAY] [--show-taken]
@@ -43,7 +49,11 @@ options:
   --delay DELAY      Delay between API requests (seconds)
   --show-taken       Show taken usernames too
 ```
+Usage and how to uuse the tool.
 
 ```bash
-python GenCraft.py -n 5 --min 4 --max 6 --delay 0.3 --show-taken
+python ignify.py -n 5 --min 4 --max 6 --delay 0.3 --show-taken
 ```
+Example of how to use the tool.
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=P5RsfA8kYjA))
