@@ -56,4 +56,4 @@ python ignify.py -n 5 --min 4 --max 6 --delay 0.3 --show-taken
 ```
 Example of how to use the tool.
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=P5RsfA8kYjA))
+[![Watch the video]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=P5RsfA8kYjA))
